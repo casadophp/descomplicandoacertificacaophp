@@ -14,3 +14,7 @@ capitulo-2
     |___ exemplo1.php
     |___ exemplo2.php
 ```
+
+## Complemento
+
+Alguns exemplos podem ser encontrados em https://github.com/marabesi/zcpe, eles estão organizados de acordo com cada tópico da prova e possui também uma interface web amigável para navegar entre os exemplos

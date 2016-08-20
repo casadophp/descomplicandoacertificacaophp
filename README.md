@@ -1,6 +1,9 @@
 # Zend Certified Engineer - Descomplicando a certificação PHP
 
-Esse repositório é especialmente dedicado aos códigos utilizados no livro **Zend Certified Engineer - Descomplicando a certificação PHP**.
+Esse repositório é especialmente dedicado aos códigos utilizados no livro **[Zend Certified Engineer - Descomplicando a certificação PHP](https://www.casadocodigo.com.br/products/livro-certificacao-php)**.
+
+![Zend Certified Engineer - Descomplicando a certificação  PHP](http://s31.postimg.org/hb7tfx72j/f7mrq_KK_ih_QQVJJT3_Eq_E0_Po_FQk7_7_Hh5_YPSj8u_FSj8_size.jpg)
+
 
 ## A estrutura
 

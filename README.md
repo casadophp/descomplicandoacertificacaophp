@@ -18,6 +18,12 @@ capitulo-2
     |___ exemplo2.php
 ```
 
+## Acesso fácil
+
+- Capítulo 1 (Apenas introdução)
+- [Capitulo 2](https://github.com/casadophp/descomplicandoacertificacaophp/tree/master/capitulo-2)
+  
+
 ## Complemento
 
 Alguns exemplos podem ser encontrados em https://github.com/marabesi/zcpe, eles estão organizados de acordo com cada tópico da prova e possui também uma interface web amigável para navegar entre os exemplos

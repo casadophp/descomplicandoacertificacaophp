@@ -22,7 +22,15 @@ capitulo-2
 
 - Capítulo 1 (Apenas introdução)
 - [Capitulo 2](https://github.com/casadophp/descomplicandoacertificacaophp/tree/master/capitulo-2)
-  
+- Capítulo 3
+- Capítulo 4
+- Capítulo 5
+- Capítulo 6
+- Capítulo 7
+- Capítulo 8
+- Capítulo 9
+- Capítulo 10
+
 
 ## Complemento
 

@@ -1,0 +1,13 @@
+{
+    "name": "casa-do-php/descomplicandoacertificacaophp",
+    "description": "Repositório do livro descomplicado a certificação PHP",
+    "authors": [
+        {
+            "name": "marabesi",
+            "email": "matheus.marabesi@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.1"
+    }
+}

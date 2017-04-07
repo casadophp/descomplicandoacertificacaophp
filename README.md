@@ -2,8 +2,7 @@
 
 Esse repositório é especialmente dedicado aos códigos utilizados no livro **[Zend Certified Engineer - Descomplicando a certificação PHP](https://www.casadocodigo.com.br/products/livro-certificacao-php)**.
 
-![Zend Certified Engineer - Descomplicando a certificação  PHP](http://s31.postimg.org/hb7tfx72j/f7mrq_KK_ih_QQVJJT3_Eq_E0_Po_FQk7_7_Hh5_YPSj8u_FSj8_size.jpg)
-
+![Zend Certified Engineer - Descomplicando a certificação  PHP](https://cdn.shopify.com/s/files/1/0155/7645/products/f7mrqKK-ihQQVJJT3EqE0PoFQk7_7_Hh5YPSj8uFSj8_size_mode_3_size_800x600_large.jpeg)
 
 ## A estrutura
 
